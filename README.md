@@ -15,3 +15,6 @@ Vous pouvez tester le programme en utilisant le simulateur [TheThirdOne/rars](ht
 Pour utiliser ce projet, vous devez tout d'abord assembler le fichier main.asm en utilisant votre assembleur RISC-V préféré. Ensuite, vous pouvez exécuter le programme en utilisant un émulateur RISC-V ou en le chargeant sur une carte de développement RISC-V.
 
 Le fichier main.as, contient des exemples d'utilisation des fonctions. Vous pouvez les modifier pour travailler avec vos propres images.
+
+## License
+Ce projet est licensié sous la license MPL2.0. Plus d'informations se trouvent dans le fichier LICENSE.
